@@ -76,6 +76,8 @@ For questions or additional information, please contact:
 <ins>Course Instructor:</ins><br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <ins>Rank/Title:</ins><br/>
 <ins>Email:</ins> <br/>
 <ins>Office Phone:</ins> <br/>
