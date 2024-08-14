@@ -73,30 +73,50 @@ For questions or additional information, please contact:
 <table>
 <tr>
   
-<td width="40%"">
-<ins>Course Instructor</ins>:<br/>
- <br/>
-<ins>Rank/Title:</ins>
+<td width="40%">
+
+<ins>Course Instructor:</ins><br/>
+<ins>Rank/Title:</ins><br/>
+<ins>Email:</ins> <br/>
+<ins>Office Phone:</ins> <br/>
+<ins>Office/Building:</ins> <br/>
+<ins>Office Hours:</ins> <br/>
+<ins>Thursdays:</ins> <br/>
+
 </td>
+
 <td width="60%">
-Kimberly K. Powell, Ph.D.
+Kimberly K. Powell, Ph.D. <br/>
+Interim Dept. Chair of Management and Marketing, Associate Professor of Marketing <br/>
+[Kimberly_Powell@subr.edu](mailto:Kimberly_Powell@subr.edu) <br/>
+225.771.5998 <br/>
+Office #247/T.T. Allain Hall <br/>
+Tuesday: 11:00 a.m. – 2:00 p.m.<br/>
+11:00 a.m. – 2:00 p.m. (By Appointment for Virtual Meetings)<br/>
+<ins>Instagram:</ins> @kkpdoc<br/>
+<ins>Twitter:</ins> @KKPDoc<br/>
+[LinkedIn Profile](www.linkedin.com/in/kimberlykpowell)<br/>
+
+
+
+
 </td>
   
+
 </tr>
 </table>
 
 
-<ins>Rank/Title:</ins> Interim Dept. Chair of Management and Marketing\
-Associate Professor of Marketing
-<ins>Email:</ins> [Kimberly_Powell@subr.edu](mailto:Kimberly_Powell@subr.edu)  \
-<ins>Office Phone:</ins> 225.771.5998\
-<ins>Office/Building:</ins> Office #247/T.T. Allain Hall\
-<ins>Office Hours:</ins> Tuesday: 11:00 a.m. – 2:00 p.m.\
-<ins>Thursdays:</ins> 11:00 a.m. – 2:00 p.m.\
-By Appointment for Virtual Meetings
-<ins>Instagram:</ins> @kkpdoc\
-<ins>Twitter:</ins> @KKPDoc\
-[LinkedIn Profile](www.linkedin.com/in/kimberlykpowell)\\
+ \
+
+  \
+\
+\
+\
+
+
+
+
 
 <ins>Course Co-Instructor:</ins> Ajayi Anwansedo, Ph.D.\
 <ins>Rank/Title:</ins> Teaching Assistant, Management and Marketing\
