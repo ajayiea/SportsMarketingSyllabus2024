@@ -2,7 +2,8 @@
 
 # Sports Marketing Course
 
-Welcome to the Sports Marketing Course! This undergraduate course provides a comprehensive introduction to the principles and practices of sports marketing. Designed for undergraduate students @ the Southern University and A&M School of Business, looking to enter the sports industry, this course combines theoretical foundations with practical applications.
+Welcome to the Sports Marketing Course! 
+This undergraduate course provides a comprehensive introduction to the principles and practices of sports marketing. Designed for undergraduate students at the Southern University and A&M School of Business, looking to enter the sports industry, this course combines theoretical foundations with practical applications.
 
 ## Table of Contents
 
@@ -70,80 +71,25 @@ View the course page and additional resources online:
 
 For questions or additional information, please contact:
 
-<table>
-<tr>
-<td width="40%">
-<ins>Course Instructor:</ins><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<ins>Rank/Title:</ins><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<ins>Email:</ins> <br/>
-<br/>
-<br/>
-<ins>Office Phone:</ins> <br/>
-<br/>
-<br/>
-<ins>Office/Building:</ins> <br/>
-<br/>
-<br/>
-<ins>Office Hours:</ins> <br/>
-<br/>
-<br/>
-<ins>Thursdays:</ins> <br/>
-
-</td>
-
-<td width="60%">
-Kimberly K. Powell, Ph.D. <br/>
-Interim Dept. Chair of Management and Marketing, Associate Professor of Marketing <br/>
-[Kimberly_Powell@subr.edu](mailto:Kimberly_Powell@subr.edu) <br/>
-225.771.5998 <br/>
-Office #247/T.T. Allain Hall <br/>
-Tuesday: 11:00 a.m. – 2:00 p.m.<br/>
-11:00 a.m. – 2:00 p.m. (By Appointment for Virtual Meetings)<br/>
-<ins>Instagram:</ins> @kkpdoc<br/>
-<ins>Twitter:</ins> @KKPDoc<br/>
-[LinkedIn Profile](www.linkedin.com/in/kimberlykpowell)<br/>
-
-
-
-
-</td>
-  
-
-</tr>
-</table>
-
-
- \
-
-  \
-\
-\
-\
-
-
-
-
-
-<ins>Course Co-Instructor:</ins> Ajayi Anwansedo, Ph.D.\
-<ins>Rank/Title:</ins> Teaching Assistant, Management and Marketing\
-<ins>Email:</ins> [ajayi.anwansedo@sus.edu](mailto:ajayi.anwansedo@sus.edu)  \
-<ins>Office/Building:</ins> Office #228-A/T.T. Allain Hall\
-<ins>Virtual Office Hours:</ins> Tuesday: 11:00 a.m. – 12:20 p.m.\
-<ins>Thursdays:</ins> 11:00 a.m. – 12:20 p.m.\
-By Appointment
-<ins>Class Meeting:</ins> Tuesday & Thursday, 12:30 p.m. – 1:50 p.m.\
-Room 213, T.T. Allain Hall\
-[LinkedIn Profile](https://www.linkedin.com/in/example)\
+|   |    |
+| :-   |:------        |
+|<ins>Course Instructor:</ins> |Kimberly K. Powell, Ph.D.
+|<ins>Rank/Title:</ins> |Interim Dept. Chair of Management and Marketing <br/>Associate Professor of Marketing
+|<ins>E-Mail:</ins> |Kimberly_Powell@subr.edu
+|<ins>Office Phone:</ins> |225.771.5998
+|<ins>Office/Building:</ins> |Office #247/T.T. Allain Hall
+|<ins>Office Hours:</ins> |Tuesday: 11:00 a.m. – 2:00 p.m.<br/> Thursdays: 11:00 a.m. – 2:00 p.m. <br/>  By Appointment for Virtual Meetings
+|<ins>Instagram:</ins> |@kkpdoc
+|<ins>Twitter:</ins> |@KKPDoc
+|<ins>LinkedIn:</ins> |www.linkedin.com/in/kimberlykpowell <br/>
+|   |    |
+|<ins>Course Co-Instructor:</ins> |Ajayi Anwansedo, Ph.D.
+|<ins>Rank/Title:</ins> |Teaching Assistant, Management and Marketing
+|<ins>E-Mail:</ins> |ajayi.anwansedo@sus.edu
+|<ins>Office/Building:</ins> |Office #228-A/T.T. Allain Hall
+|<ins>Virtual Office Hours:</ins>| Tuesday: 11:00 a.m. – 2:00 p.m.<br/> Thursdays: 11:00 a.m. – 2:00 p.m. <br/>  By Appointment for Virtual Meetings
+|   |    |
+|<ins>Class Meeting:</ins> |Tuesday & Thursday, 9:30 a.m. – 10:50 a.m.<br/>Room 213, T.T. Allain Hall
 
 ---
 
