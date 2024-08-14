@@ -70,10 +70,44 @@ View the course page and additional resources online:
 
 For questions or additional information, please contact:
 
-**Dr. Esohe**  
-Teaching Assistant Sports Marketing  
-Email: [ajayi.anwansedo@sus.edu](mailto:ajayi.anwansedo@sus.edu)  
-[LinkedIn Profile](https://www.linkedin.com/in/example)
+<table>
+<tr>
+  
+<td width="40%"">
+<ins>Course Instructor</ins>:<br/>
+ <br/>
+<ins>Rank/Title:</ins>
+</td>
+<td width="60%">
+Kimberly K. Powell, Ph.D.
+</td>
+  
+</tr>
+</table>
+
+
+<ins>Rank/Title:</ins> Interim Dept. Chair of Management and Marketing\
+Associate Professor of Marketing
+<ins>Email:</ins> [Kimberly_Powell@subr.edu](mailto:Kimberly_Powell@subr.edu)  \
+<ins>Office Phone:</ins> 225.771.5998\
+<ins>Office/Building:</ins> Office #247/T.T. Allain Hall\
+<ins>Office Hours:</ins> Tuesday: 11:00 a.m. – 2:00 p.m.\
+<ins>Thursdays:</ins> 11:00 a.m. – 2:00 p.m.\
+By Appointment for Virtual Meetings
+<ins>Instagram:</ins> @kkpdoc\
+<ins>Twitter:</ins> @KKPDoc\
+[LinkedIn Profile](www.linkedin.com/in/kimberlykpowell)\\
+
+<ins>Course Co-Instructor:</ins> Ajayi Anwansedo, Ph.D.\
+<ins>Rank/Title:</ins> Teaching Assistant, Management and Marketing\
+<ins>Email:</ins> [ajayi.anwansedo@sus.edu](mailto:ajayi.anwansedo@sus.edu)  \
+<ins>Office/Building:</ins> Office #228-A/T.T. Allain Hall\
+<ins>Virtual Office Hours:</ins> Tuesday: 11:00 a.m. – 12:20 p.m.\
+<ins>Thursdays:</ins> 11:00 a.m. – 12:20 p.m.\
+By Appointment
+<ins>Class Meeting:</ins> Tuesday & Thursday, 12:30 p.m. – 1:50 p.m.\
+Room 213, T.T. Allain Hall\
+[LinkedIn Profile](https://www.linkedin.com/in/example)\
 
 ---
 
