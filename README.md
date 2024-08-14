@@ -78,11 +78,25 @@ For questions or additional information, please contact:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <ins>Rank/Title:</ins><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <ins>Email:</ins> <br/>
+<br/>
+<br/>
 <ins>Office Phone:</ins> <br/>
+<br/>
+<br/>
 <ins>Office/Building:</ins> <br/>
+<br/>
+<br/>
 <ins>Office Hours:</ins> <br/>
+<br/>
+<br/>
 <ins>Thursdays:</ins> <br/>
 
 </td>
