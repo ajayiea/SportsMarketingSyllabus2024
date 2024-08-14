@@ -73,7 +73,9 @@ For questions or additional information, please contact:
 <table>
 <tr>
 <td width="40%">
-<ins>Course Instructor:</ins><br/><br/><br/>
+<ins>Course Instructor:</ins><br/>
+<br/>
+<br/>
 <ins>Rank/Title:</ins><br/>
 <ins>Email:</ins> <br/>
 <ins>Office Phone:</ins> <br/>
