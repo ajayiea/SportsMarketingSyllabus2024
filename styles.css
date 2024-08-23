@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #f0f4f8;
     color: #333;
-    background-image: url("https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-image: url("https: //images.pexels.com/photos/1263349/pexels-photo-1263349.jpeg?auto=compress&cs=tinysrgb&w=600");
 }
 
 header {
@@ -34,13 +34,28 @@ section {
     padding: 20px;
     margin: 20px;
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 h1,
 h2 {
     text-align: center;
+}
+
+ol {
+    margin: 0;
+}
+
+ol>li {
+    margin: 0.5rem 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+    list-style-type: disc;
 }
 
 .cta-button {
@@ -60,6 +75,10 @@ h2 {
 
 #contact{
     margin-bottom: 90px;
+}
+
+main{
+    margin-bottom: 80px;
 }
 
 footer {
