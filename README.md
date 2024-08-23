@@ -25,4 +25,4 @@ To view and use the website locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/sports-marketing-case-studies.git
+   git clone https://github.com/ajayiea/sports-marketing-case-studies.git
