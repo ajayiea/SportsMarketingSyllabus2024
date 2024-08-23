@@ -1,96 +1,28 @@
-# SportsMarketingSyllabus2024
+# Sports Marketing Case Studies Website
 
-# Sports Marketing Course
+Welcome to the repository for the **Sports Marketing Case Studies** website. This website provides an introduction to sports marketing through engaging case studies designed for undergraduate students.
 
-Welcome to the Sports Marketing Course! 
-This undergraduate course provides a comprehensive introduction to the principles and practices of sports marketing. Designed for undergraduate students at the Southern University and A&M School of Business, looking to enter the sports industry, this course combines theoretical foundations with practical applications.
+## Overview
 
-## Table of Contents
+This project contains a basic website that presents various case studies related to sports marketing. It is structured to provide students with practical applications of sports marketing concepts.
 
-- [Course Overview](#course-overview)
-- [Course Syllabus](#course-syllabus)
-- [Class Discussions and Debates](#class-discussions-and-debates)
-- [Case Studies](#case-studies)
-- [How to Access the Course Page](#how-to-access-the-course-page)
-- [Instructor Information](#instructor-information)
+## Website Structure
 
-## Course Overview
-
-This course explores essential topics in sports marketing, including market analysis, product management, promotional strategies, and the strategic implementation of marketing plans. Through a combination of lectures, discussions, and real-world case studies, students will gain a solid understanding of how sports organizations engage with their audiences and manage their brands.
-
-## Course Syllabus
-
-### Part I: Foundation of Sports Marketing
-1. **Emergence of Sports Marketing**: Understanding the origins and development of sports marketing.
-2. **Contingency Framework for Strategic Sports Marketing**: Introduction to strategic frameworks used in sports marketing.
-
-### Part II: Understanding the Market
-3. **Research Tools for Understanding Sports Consumers**: Techniques and tools for analyzing sports consumers.
-4. **Understanding Participants as Consumers**: Insights into the behavior of sports participants.
-5. **Understanding Spectators as Consumers**: Analyzing the motivations and behaviors of sports fans.
-6. **Segmentation, Targeting, and Positioning**: Strategies for segmenting and targeting sports markets.
-
-### Part III: Developing the Sports Marketing Mix
-7. **Sports Product Concepts**: Overview of sports products and services.
-8. **Managing Sports Products**: Strategies for managing and enhancing sports products.
-9. **Promotion Concepts**: Fundamentals of promotion in sports marketing.
-10. **Promotion Mix Elements**: Detailed look at the various elements of the promotion mix.
-11. **Sponsorship Programs**: Understanding and creating effective sponsorships.
-12. **Pricing Concepts and Strategies**: Approaches to pricing in sports marketing.
-
-### Part IV: Strategic Implementation and Control
-13. **Implementing and Controlling the Strategic Sports Marketing Process**: Techniques for executing and evaluating sports marketing strategies.
-
-## Class Discussions and Debates
-
-Engage in lively discussions and debates on current issues in sports marketing:
-- **The Impact of Social Media on Sports Marketing**
-- **Economic Effects of Major Sports Events**
-- **Ethical Considerations in Athlete Endorsements**
-- **Innovations in Fan Engagement**
-- **Trends in Sports Merchandise Marketing**
-- **Post-Pandemic Changes in Sports Sponsorship**
-- **The Role of Streaming in Sports Broadcasting**
-- **Advancements in Gender Equality in Sports Marketing**
-- **The Use of Data Analytics in Sports Marketing**
-- **The Influence of NIL Rights on College Athletics**
+- **Home:** Introduction to the Sports Marketing Case Studies.
+- **Case Studies:** Overview of available case studies with links to detailed pages.
+- **Resources:** Additional resources to support learning.
+- **Contact:** Contact information for inquiries.
 
 ## Case Studies
 
-Explore real-world case studies to connect theory with practice:
-- **The Growth of Esports Sponsorships**: Examining the rise and impact of esports on traditional sports.
-- **Nike's "Move to Zero" Initiative**: Analyzing Nike’s sustainability efforts in sports marketing.
-- **Challenges Faced by the Tokyo 2020 Olympics**: Understanding the marketing and operational challenges during the pandemic.
+1. **Understanding the Market:** Analyze consumer behavior and market segmentation strategies for the Olympic Games.
+2. **Developing the Sports Marketing Mix:** Design an effective marketing mix for a national Olympic campaign.
+3. **Strategic Implementation and Control:** Implement and manage a sports marketing strategy during the Olympics.
 
-## How to Access the Course Page
+## Getting Started
 
-View the course page and additional resources online:
-[Sports Marketing Course Page](https://<your-username>.github.io/<repository-name>/)
+To view and use the website locally:
 
-## Instructor Information
-
-For questions or additional information, please contact:
-
-|   |    |
-| :-   |:------        |
-|<ins>Course Instructor:</ins> |Kimberly K. Powell, Ph.D.
-|<ins>Rank/Title:</ins> |Interim Dept. Chair of Management and Marketing <br/>Associate Professor of Marketing
-|<ins>E-Mail:</ins> |Kimberly_Powell@subr.edu
-|<ins>Office Phone:</ins> |225.771.5998
-|<ins>Office/Building:</ins> |Office #247/T.T. Allain Hall
-|<ins>Office Hours:</ins> |Tuesday: 11:00 a.m. – 2:00 p.m.<br/> Thursdays: 11:00 a.m. – 2:00 p.m. <br/>  By Appointment for Virtual Meetings
-|<ins>Instagram:</ins> |@kkpdoc
-|<ins>Twitter:</ins> |@KKPDoc
-|<ins>LinkedIn:</ins> |www.linkedin.com/in/kimberlykpowell <br/>
-|   |    |
-|<ins>Course Co-Instructor:</ins> |Ajayi Anwansedo, Ph.D.
-|<ins>Rank/Title:</ins> |Teaching Assistant, Management and Marketing
-|<ins>E-Mail:</ins> |ajayi.anwansedo@sus.edu
-|<ins>Office/Building:</ins> |Office #228-A/T.T. Allain Hall
-|<ins>Virtual Office Hours:</ins>| Tuesday: 11:00 a.m. – 2:00 p.m.<br/> Thursdays: 11:00 a.m. – 2:00 p.m. <br/>  By Appointment for Virtual Meetings
-|   |    |
-|<ins>Class Meeting:</ins> |Tuesday & Thursday, 9:30 a.m. – 10:50 a.m.<br/>Room 213, T.T. Allain Hall
-
----
-
-&copy; 2024 Sports Marketing Course. All rights reserved.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/sports-marketing-case-studies.git
