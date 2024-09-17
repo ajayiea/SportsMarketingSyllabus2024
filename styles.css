@@ -90,3 +90,14 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.tableau_img{
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+
+}
