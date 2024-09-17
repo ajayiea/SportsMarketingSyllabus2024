@@ -101,3 +101,40 @@ footer {
     border-radius: 30px;
 
 }
+
+.tableau_container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.main_content{
+    flex: 2;
+    padding-right: 10px;
+}
+.sidebar{
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-height: 200vh;
+    overflow-y: auto;
+    border-radius: 20px;
+}
+
+.sidebar h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+.sidebar h3{
+    text-align: center;
+}
+
+.gif{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
